@@ -1,0 +1,10 @@
+[2026-09-27 22:10:19] INFO  The Program started up
+[2026-09-27 22:10:19] INFO  The user logged into system
+[2026-09-27 22:10:19] WARN  Fast response(ig): 0.5с
+[2026-09-27 22:10:19] ERROR Connection to data base has gone successfully!
+[2026-09-27 22:10:19] INFO  The user added some data
+[2026-09-27 22:10:19] ERROR Something had gone completely wrong and all data gor wiped
+[2026-09-27 22:10:19] WARN  The user must face the consequences of his actions...
+[2026-09-27 22:10:19] INFO  Oh, the user already left from the crime scene
+[2026-09-27 22:10:19] WARN  Developers developers, the data base had got wiped
+[2026-09-27 22:10:19] INFO  Program shut down

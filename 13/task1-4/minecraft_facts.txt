@@ -1,0 +1,170 @@
+Welcome to 153 Minecraft Facts You (Probably) Didn't Know
+
+Let's get started!
+
+1. There are four mobs that only spawn in from command.
+    Giant (/summon giant)
+    Zombie Horse (/summon EntityHorse - - - (Type:4))
+    The Killer Bunny (/summon Rabbit - - - (RabbitType:99))
+    Illusioner (/summon Illusioner)
+2. You can ride a horse, pig, and a Strider upside-down.
+3. Using a name tag named jeb_ on a Sheep, the Sheep will constantly change wool colors.
+4. A bucket of water will get rid of grass, flowers, carpets, and cobwebs.
+5. You can grow giant trees by planting a 2x2 square of spruce or jungle saplings.
+6. Glass can protect some of the blast damage from a TNT.
+7. Place water right when you reach the ground. If done correctly, you could survive any fall! You can also use cobwebs or a lava bucket (just use a fire resistance potion first).
+8. You can't place torches underwater. (Makes sense.)
+9. Bring a wolf when fighting skeletons. Wolves fight skeletons. 
+10. You can auto-detonate a Creeper with a Flint and Steel.
+11. An Enderman won't teleport away if you attack its legs.
+12. Endermen aren't aggravated when you look at their eyes while wearing a Carved Pumpkin.
+13. Endermen are hostile towards Endermites.
+14. Endermites despawn in 2 minutes unless it is named.
+15. Endermites originally looked like Silverfish, just they were purple.
+16. Creepers used to explode and drop leaf particles. Were creepers made out of leaves?
+17. Creepers used to be 0.1 blocks taller than they are now.
+18. Zombie Villagers used to look like Zombies, just with the regular Zombie Villager head.
+19. One two-story stronghold library has 233 bookshelves, and if you break each one gives you 699 books. Happy writing! :-)
+20. No hostile mobs ever spawn on Mushroom Islands, unless you use commands, that is.
+21. Breeding a blue and a red sheep produces a purple sheep.
+22. Shooting a button with an arrow will produce a redstone signal for one minute.
+23. One Coal Block smelts 80 blocks, while 9 coal (which is what one Coal Block is made of) smelts 74 blocks.
+24. Notch originally planned for Torches to burn out after a while. Lanterns and other light blocks would be permanent light sources.
+25. Drowned will try to crush turtle eggs at night.
+26. Years ago, the place above the Nether's Bedrock ceiling would be empty, except for the tell-tale mushroom.
+27. Before Minecraft worlds were “infinite”, they would be large cubes.
+28. You can go past a world border by using a boat or minecart, or by using Creative Mode.
+29. Detector Rails activate TNT in a minecart.
+30. Mobs can ride minecarts.
+31. Creepers were not in the original Minecraft title.
+32. Creepers were made when a worker at Mojang failed to create a pig.
+33. Creepers used to kill players with their feet.
+34. Creepers would originally explode after they died.
+35. Minecraft was first called Cave Game. Then it was renamed Minecraft: Order of the Stone. But Mojang settled on Minecraft.
+36. There's a 1 in 10,000 chance for the Minecraft logo to say Minceraft. That's not a typo, Minceraft.
+37. Ore seems to spawn more frequently near lava.
+38. Iron Golems do not drown.
+39. Snow Golems do drown.
+40. The closer it is to a full moon, the more likely monsters wear armor.
+41. Endermen are not aggravated if you look at their eyes through glass.
+42. Notch wanted Sharks in Minecraft.
+43. Herobrine has long left Minecraft. Or has he? 
+44. Animals can breed through fences and walls (meaning the wall blocks).
+45. One wood log can be crafted into four wood planks that are the same size as the log.
+46. There are two hidden Minecraft blocks. They can only be found from commands.
+      Command Blocks can be powered by redstone. Players put in a command and the Command Block (once activated) will follow the command. (Use the /give @p command_block <quantity> command to get a Command Block. Replace the <quantity> with the amount you need.)
+      Barrier Blocks are invisible blocks that cannot be mined or entered. You can mine them in Creative Mode, though. (Use the /give @p barrier <quantity> command to get a Barrier Block. Replace the <quantity> with the amount you need.)
+47. In a mob texture file, a Mojang worker may leave their name there as a small easter egg.
+48. In one of the cave ambiance sounds, if you play it on a spectrogram, it resembles a Creeper.
+49. Beds used to come in only red.
+50. Pillows on beds are completely flat.
+51. Minecraft has four game modes. Survival, Creative, Adventure, and Spectator.
+52. You can change the text color on a sign by using dye.
+53. Copper oxidizes over time. To stop this, use honeycombs.
+54. You can clone maps by using a cartography table.
+55. Bedrock is a very low-contrast version of stone blocks.
+56. Wonder why Observers have faces? Jeb_ couldn't remember which side was which.
+57. When you sleep, you never sleep under the covers.
+58. Cooking and plant/crop growing pauses while you sleep.
+59. Cacti will dissolve anything that is dropped onto it.
+60. Every Nether mob is immune to lava.
+61. Snow Golems attack almost all hostile mobs. Only Blazes and the Ender Dragon take damage though.
+62. If you kill yourself with the command (/kill), the death screen says, “<username> fell out of the world”. Pretty weird way to die.
+63. Up to 128 Strongholds can spawn in one Minecraft world.
+64. Not all Strongholds spawn with an End Portal room (in Bedrock Edition).
+65. Rarely, a chest can spawn in the upper parts of a Stronghold Library. 
+66. Ghasts' noises came from C418's cat.
+67. The original Endermen had green eyes.
+68. Creepers explode because creepers are nervous. Dinnerbone said that “They're so nervous that they shake a lot, and then this sets them off the same way as how rubbing two sticks makes fire.”
+69. Saplings were the first item in Minecraft.
+70. Creative Mode was before Survival Mode.
+71. Sometimes, Villager Children play tag.
+72. The Ender Dragon takes more damage if hit on the head. 
+73. Cobblestone takes 0.2 seconds faster to mine than regular stone. 
+74. Hostile mobs don't spawn on leaves or glass.
+75. Withers fire two types of skulls. Blue skulls and Black Skulls.
+76. There are (sort of) four types of torches. Torches, Soul Torches, Redstone Torches, and Burnt-Out Redstone Torches.
+77. Minecraft days are 20 minutes.
+78. Minecraft music disc 11 lasts for 1 minute, 11 seconds, and 111 milliseconds!
+79. The sun and the moon are flat.
+80. If you die from a mob or player in Survival Mode or Multiplayer, you drop XP.
+81. Wonder what Endermen say? They mainly say “Hi”, “Hello”, and “What's up”. But it's reversed, slowed down, and distorted.
+82. Tamed wolves will attack you if you shoot yourself with an arrow.
+83. 8 blocks in the Nether equal to 1 block in the overworld.
+84. Spiders and Cave Spiders can't climb on ice.
+85. Mobs don't spawn on slabs.
+86. Endermen can't teleport if in a 2-block deep hole.
+87. Redstone is the real-life electricity in Minecraft.
+88. On the 10th anniversary of Minecraft, every cake had a 10 on it.
+89. The text used in Minecraft is called MineCrafter.
+90. The curved rail kind of looks like an iron pickaxe. 
+91. Many of the ambiances in the Crimson Forests are made using balloons.
+92. There is a 5% chance of a chest spawning inside an Obsidian Pillar on the Main Island in the End. It contained arrows.
+93. There is a free Ender Chest under the 3x3 lava pool under the End Portal in a Stronghold.
+94. Evokers turn blue sheep red.
+95. Snow Golems and Iron Golems take no fall damage.
+96. Snow Golems don't leave snow trails on Mycelium.
+97. Turtles die instantly if struck by lightning. (Bedrock Edition.)
+98. Endermen see in Inverted colors.
+99. Lava flows farther and 6 times faster in the Nether. 
+100. Wet Sponge Blocks instantly dries in the Nether. 
+101. Husks are slightly taller than Zombies.
+102. The Crafting Table used to be called a Workbench.
+103. Minecraft blocks used to stack up to 99.
+104. All Sunflowers face east.
+105. Gunpowder used to be called Sulphur.
+106. Air Blocks, Bedrock, and Chests are the only blocks that generate naturally in each dimension.
+107. Wood fences and Nether Brick fences do not connect. 
+108. Redstone used to be called Red Ore. 
+109. Sugarcane used to be called Reeds.
+110. Gold Ore generates on the surface of Mesa biomes.
+111. You can't sprint if you have the blindness effect.
+112. Most mobs see you from 16 blocks away, but Zombies see you from 40 blocks away, and Ghasts 100 blocks away.
+113. Prismarine Blocks slowly change hue to green, and back to blue. The process is repeated.
+114. The End Stone block is an inversion, geometric translation, and color-shifted version of cobblestone.
+115. The Droppers' mouth (when faced upwards) is the same size as a button. 
+116. Skeletons can use swords. 
+117. There are baby Skeleton Horses.
+118. Dead bushes can be used as fuel
+119. Piglin people hate Soul Campfires.
+120. Zombies used to drop feathers.
+121. The Phantom used to be red.
+122a. Hoglins run away from Respawn Anchors.
+122b. Hoglins also run away from Crimson Fungi.
+123. Respawn Anchors explode in the Overworld.
+124. Zombie Villagers cure faster in Igloo Basements.
+125. Slimes almost double their spawn in Swamps during a full moon.
+126. Spiders can spawn with powers. 
+127. The ambiance warped_forest_mood_9 is a slowed down and reverberated sound that the witch makes.
+128. The largest ocean biome discovered is a 20 million block ocean.
+129. Squids have ambiance sounds. 
+130. Squids are not affected by the “Grumm” or “Dinnerbone” name tag. 
+131a. Ghasts have a hidden sound called the affectionate_scream.ogg.
+131b. It was only used in the last few seconds of the Nether Update Trailer. To hear it, go to https://youtu.be/1DhWXAiNgfQ and listen in between 1:03 and 1:04.
+132. You can smelt sea pickles into green dye.
+133. Breaking the bottom of a Cactus makes all Cactus Blocks on top fall.
+134. With expert thinking and without using cheats, you can get an iron golem to attack its villagers.
+135. If a big or medium slime or magma cube is named with a name tag, and then dies, its smaller versions will have the same name. 
+136. Shoot an arrow through lava to get a flaming arrow. 
+137. Tinted glass lets no light through.
+138. Jungle wood is the only type of wood that is not used in other items (besides fences, fence gates, doors, stairs, slabs, and buttons) as a texture.
+139. Chorus plants can grow into larger Chorus plants.
+140. Crying Obsidian actually “cries”.
+141. Crying Obsidian cannot be made into a Nether Portal. (That would be cool!)
+142. Creepers see in a green hue. 
+143. Spiders see in multiple views of the view in front of him.
+144. Cave Spiders see like Spiders, just with a red-ish hue.
+145. Barrier Blocks can let rain and snow through.
+146a. Zombies attack Baby Turtles.
+146b. Zombies attack Turtle Eggs.
+147. TNT is a higher-pitched Creeper explosion.
+148. It is possible to be on Seed 0.
+149. On Minecraft PC, when you press F3 you may see W1, W2, M, and C (and others). This keeps track of how many of this mob is in a chunk. M is for Hostile Mobs, C is for Passive Mobs, etc. 
+150. The first-ever mob was the Human mob. It would attack the player as a hostile mob. But in Creative Mode, however, they would move fast while jumping like crazy. To see them in action, go to https://www.youtube.com/watch?v=JBR7sVwpzes.
+151. There was planned to be a fourth dimension. The Sky Dimension would be peaceful and such.
+152a. The Wither is nicknamed “Simmons” at Mojang. Sounds like “summons”.
+152b. The Ender Dragon is nicknamed “Jeans”.
+153. Villagers can “equip” armor. It doesn't appear, but it does work, and they drop it upon death. To do this, use a Dispenser.
+
+That is all! What do you think?
+
